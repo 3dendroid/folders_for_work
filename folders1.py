@@ -3,7 +3,7 @@ import os
 # current_month = datetime.date.today().month
 # print(current_month)
 
-path = r'C:\Users\denki\Desktop\SN_bugs\november'
+path = os.curdir
 
 folders = [
     'screenshots',
